@@ -173,7 +173,7 @@ Berikut adalah simulasi perhitungan empiris pada produk **Sucorinvest Sharia Bal
    * $MDD = 1.46\% \le 20\% \rightarrow P_{MDD} = 0.00$ (Tidak ada penalti risiko)
    * $AUM = \text{Rp } 1.492 \text{ Miliar} \ge \text{Rp } 50 \text{ Miliar} \rightarrow P_{AUM} = 0.00$ (Likuiditas sangat aman)
 5. **Skor Akhir & Peringkat:**
-   $$S_{\text{final}} = 0.780 - 0.00 - 0.00 = 0.780 \quad \longrightarrow \quad \mathbf{\text{Peringkat \#1 Kategori Campuran}}$$
+   $$S_{\text{final}} = 0.780 - 0.00 - 0.00 = 0.780 \quad \longrightarrow \quad \mathbf{\text{Peringkat Ke-1 Kategori Campuran}}$$
 
 ---
 
