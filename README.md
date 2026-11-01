@@ -104,8 +104,8 @@ Pastikan Anda telah menginstal **Python 3.8+** pada sistem Anda:
 
 ```bash
 # 1. Kloning repositori
-git clone https://github.com/pranataa-labs/reksadana-indonesia-analytics.git
-cd reksadana-indonesia-analytics
+git clone https://github.com/pranataa-labs/indonesia-mutual-fund-analytics.git
+cd indonesia-mutual-fund-analytics
 
 # 2. Jalankan server lokal
 python serve.py
