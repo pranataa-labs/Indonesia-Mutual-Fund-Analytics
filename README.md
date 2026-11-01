@@ -138,7 +138,7 @@ Sesuai regulasi OJK (POJK No. 23/POJK.04/2016), reksa dana dengan dana kelolaan 
 $$P_{AUM} = \begin{cases} 
 0.15, & \text{jika } AUM < \text{Rp } 25 \text{ Miliar (Risiko Tinggi Dibubarkan)} \\
 0.05, & \text{jika } 25 \text{ Miliar} \le AUM < \text{Rp } 50 \text{ Miliar (Likuiditas Menengah)} \\
-0.00, & \text{jika } AUM \ge \text{Rp } 50 \text{ Miliar (Likuiditas Aman \& Sehat)}
+0.00, & \text{jika } AUM \ge \text{Rp } 50 \text{ Miliar (Likuiditas Aman dan Sehat)}
 \end{cases}$$
 
 ---
